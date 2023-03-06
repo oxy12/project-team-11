@@ -9,11 +9,11 @@
         padding-bottom: 65px;
     }
 
-/*.footer-container{
+.footer-container{
     min-width:auto;
 max-width: auto;
+}
 
-}*/
 .hr {
     display: block;
     overflow: hidden;
